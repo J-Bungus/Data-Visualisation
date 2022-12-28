@@ -17,4 +17,10 @@ ________________________________________________________________________________
 Random Walk with 50000 points:
 
 ![image](https://user-images.githubusercontent.com/113871762/209732565-1b06bcad-e1fc-40ea-ad8e-c4a6a9bd55a3.png)
-
+_________________________________________________________________________________________________________________________________
+Temperature Graphs:
+![image](https://user-images.githubusercontent.com/113871762/209763521-fe742350-2ea2-48c0-9c76-6eb7b750756d.png)
+![image](https://user-images.githubusercontent.com/113871762/209763552-a9d51bfa-2fa5-4d4f-ade6-d00fa11236b9.png)
+___
+Earthquake Graphs:
+![image](https://user-images.githubusercontent.com/113871762/209763592-896d2110-b09c-465f-99cf-a46f4d5e9d07.png)
