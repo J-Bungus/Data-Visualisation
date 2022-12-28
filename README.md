@@ -26,3 +26,6 @@ ___
 Graph of Earthquakes within a 24-Hour period (Plotly):
 
 ![image](https://user-images.githubusercontent.com/113871762/209763592-896d2110-b09c-465f-99cf-a46f4d5e9d07.png)
+___
+Graph of some popular Github repos based on their star count:
+![github_python](https://user-images.githubusercontent.com/113871762/209867994-50d762cb-fdbd-44e1-b521-d8c5bc5c9c5f.png)
